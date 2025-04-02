@@ -1,4 +1,4 @@
-# File Organizer (or choose a better name from our previous discussion!)
+# File Organizer 
 
 A Python script that automatically organizes files into folders based on their file extensions.
 

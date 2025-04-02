@@ -6,6 +6,8 @@ A Python script that automatically organizes files into folders based on their f
 
 This script simplifies file management by automatically sorting files in a specified directory into organized folders. It categorizes files such as images, documents, software, and archives, creating a clean and structured file system. This helps to reduce clutter and improve workflow efficiency.
 
+![image](https://github.com/user-attachments/assets/cdfd6563-6c1f-4874-ad8c-aa78d675d2da)
+
 ## Features
 
 * **Automatic File Sorting:** Organizes files based on their extensions.
